@@ -18,8 +18,12 @@ A sleek, responsive portfolio built with **React**, **Vite**, and **Tailwind CSS
 1. Clone the Repo
 
 git clone URL
+
 cd react-portfolio-website
+
 2. Install Dependencies
+
 npm install
-3. Start Development Server
+4. Start Development Server
+
 npm run dev
